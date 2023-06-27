@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @f-m-a-ly
 - 👀 I’m interested in web developement, data science, AI and more!
-- 🌱 I’m currently learning react & Next!
 - 💞️ I’m looking to collaborate on anything with you!
 
 <!---
